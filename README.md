@@ -15,12 +15,11 @@
   </li>
   <li>
     <h2>
-      Student at <a href="CSUN">Lensrentals</a>.
+      Student at <a href="CSUN">CSUN</a>.
     </h2>
   </li>
   <li>
     <h2>
-      Currently working in <a href="https://svelte.dev/"><img src='https://github.com/ryanfiller/ryanfiller/blob/main/svelte-logo.svg' alt='Svelte' /></a> & <a href="https://reactjs.org/"><img src='https://github.com/ryanfiller/ryanfiller/blob/main/react-logo.svg' alt='React' /></a>
     </h2>
   </li>
   <li>
