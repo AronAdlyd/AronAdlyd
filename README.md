@@ -21,14 +21,8 @@
   <li>
     <h2>
     </h2>
-  </li>
-  <li>
-    <h2>
-    </h2>
-  </li>
-  <li>
     <small>
-      I <em>definitely</em> stole the SVG idea from <a href="https://github.com/sindresorhus/css-in-readme-like-wat">Sindre Sorhus</a>
+      I <em>definitely</em> borrowed the SVG idea from <a href="https://github.com/sindresorhus/css-in-readme-like-wat">Sindre Sorhus</a>
     </small>
   </li>
 </ul>
