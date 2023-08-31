@@ -1,21 +1,21 @@
 <h1>
-  <img src="name.svg" width="800" height="400" alt="Ryan Filler, Front-End Developer" style="--background: red;" />
+  <img src="name.svg" width="800" height="400" alt="Aron Adlyd, Student" style="--background: red;" />
 </h1>
 
 <ul style="list-style: none; padding: 0; margin:0; text-align: center">
   <li>
     <h2>
-      Front-end developer and (former but still sometimes) designer.
+      Student
     </h2>
   </li>
   <li>
     <h2>
-      Interested in performance, privacy, accessibility, and sustainability.
+      Interested in surfing, volleyball, and food.
     </h2>
   </li>
   <li>
     <h2>
-      Developer at <a href="https://www.lensrentals.com/">Lensrentals</a>.
+      Student at <a href="CSUN">Lensrentals</a>.
     </h2>
   </li>
   <li>
@@ -25,7 +25,6 @@
   </li>
   <li>
     <h2>
-      Check out my <a href="https://ryanfiller.com?link=github">website.</a>
     </h2>
   </li>
   <li>
