@@ -10,7 +10,10 @@
   </li>
   <li>
     <h2>
-      Interested in surfing, volleyball, and food.
+      If you can dream—and not make dreams your master;
+If you can think—and not make thoughts your aim;
+If you can meet with triumph and disaster
+And treat those two impostors just the same.
     </h2>
   </li>
   <li>
