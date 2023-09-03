@@ -10,12 +10,11 @@
   </li>
   <li>
     <h2>
-      If you can dream—and not make dreams your master;
+"If you can dream—and not make dreams your master;
 If you can think—and not make thoughts your aim;
 If you can meet with triumph and disaster
-And treat those two impostors just the same.
+And treat those two impostors just the same."
     </h2>
-    <h2>
     </h2>
     <small>
       I <em>definitely</em> borrowed the SVG idea from <a href="https://github.com/sindresorhus/css-in-readme-like-wat">Sindre Sorhus</a>
