@@ -5,14 +5,14 @@
 <ul style="list-style: none; padding: 0; margin:0; text-align: center">
   <li>
     <h2>
-      Student
+      CSUN Student
     </h2>
   </li>
   <li>
     <h2>
 "If you can dream—and not make dreams your master;
 If you can think—and not make thoughts your aim;
-If you can meet with triumph and disaster
+If you can meet with triumph and disaster, 
 And treat those two impostors just the same."
     </h2>
     </h2>
