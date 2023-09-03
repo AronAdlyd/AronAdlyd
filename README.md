@@ -13,7 +13,7 @@
 "If you can dream—and not make dreams your master;
 If you can think—and not make thoughts your aim;
 If you can meet with triumph and disaster, 
-And treat those two impostors just the same."
+And treat those two impostors just the same." -Rudyard Kipling
     </h2>
     </h2>
     <small>
