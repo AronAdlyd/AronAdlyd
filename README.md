@@ -15,13 +15,6 @@ If you can think—and not make thoughts your aim;
 If you can meet with triumph and disaster
 And treat those two impostors just the same.
     </h2>
-  </li>
-  <li>
-    <h2>
-      Student at <a href="CSUN">CSUN</a>.
-    </h2>
-  </li>
-  <li>
     <h2>
     </h2>
     <small>
